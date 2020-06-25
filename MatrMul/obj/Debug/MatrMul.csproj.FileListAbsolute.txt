@@ -1,0 +1,6 @@
+C:\Users\Igor2\source\repos\MatrMul\bin\Debug\MatrMul.exe.config
+C:\Users\Igor2\source\repos\MatrMul\bin\Debug\MatrMul.exe
+C:\Users\Igor2\source\repos\MatrMul\bin\Debug\MatrMul.pdb
+C:\Users\Igor2\source\repos\MatrMul\obj\Debug\MatrMul.csprojAssemblyReference.cache
+C:\Users\Igor2\source\repos\MatrMul\obj\Debug\MatrMul.exe
+C:\Users\Igor2\source\repos\MatrMul\obj\Debug\MatrMul.pdb
